@@ -1,5 +1,5 @@
 <idea-plugin version="2">
-  <id>com.your.company.unique.plugin.id</id>
+  <id>com.zhw.tgnet.android.AndroidProGuard</id>
   <name>AndroidProGuard</name>
   <version>1.0</version>
   <vendor email="zhonghanwen1001@qq.com" url="http://zhonghanwen.xyz">TgNet</vendor>
