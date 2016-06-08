@@ -18,7 +18,7 @@ Android Studio generate proguard codes
 5. 将项目app下gradle文件将minifyEnabled修改成true就可以测试混淆效果。 （你可以使用AndroidKiller反编译看一下效果，AndroidKiller的使用可以参考我写的这篇文章[here](http://www.cnblogs.com/common1140/p/5198460.html)）
 
 # **Note**
- 
+实际的项目通常会有多个的Module，对于多个Module的代码混淆网上资料比较少，经过我实验得出：**对于多个Module的项目，在应用的Module（即app）下的proguard-rules.pro文件添加混淆代码以及在Gradle里minifyEnabled开启即可**。
 
 # License
 
