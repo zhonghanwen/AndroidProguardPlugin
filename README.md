@@ -1,5 +1,7 @@
 # AndroidProguardPlugin
-Android Studio generate proguard codes 
+OneKey Android Studio generate proguard codes 
+
+一键生成项目混淆代码插件，值得你安装~
 
 # Screenshot
 ![](http://7xrnko.com1.z0.glb.clouddn.com/androidproguard1.gif)
