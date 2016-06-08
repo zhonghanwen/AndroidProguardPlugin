@@ -20,7 +20,13 @@ OneKey Android Studio generate proguard codes
 5. 将项目app下gradle文件将minifyEnabled修改成true就可以测试混淆效果。 （你可以使用AndroidKiller反编译看一下效果，AndroidKiller的使用可以参考我写的这篇文章[here](http://www.cnblogs.com/common1140/p/5198460.html)）
 
 # **Note**
-实际的项目通常会有多个的Module，对于多个Module的代码混淆网上资料比较少，经过我实验得出：**对于多个Module的项目，在应用的Module（即app）下的proguard-rules.pro文件添加混淆代码以及在Gradle里minifyEnabled开启即可**。
+1. 实际的项目通常会有多个的Module，对于多个Module的代码混淆网上资料比较少，经过我实验得出：**对于多个Module的项目，在应用的Module（即app）下的proguard-rules.pro文件添加混淆代码以及在Gradle里minifyEnabled开启即可**。
+
+2. 如果项目在编译的时候报warn信息，那么你可以使用-keep或者-dontwarn保留warn的类。
+
+# End
+我知道项目的代码混淆一般通常混淆一次就可以了，很多人认为这个插件的意义不太，但是我可以告诉你我也是这么想的，可是我也无办法阻止我的行动~哈哈~~
+
 
 # License
 
