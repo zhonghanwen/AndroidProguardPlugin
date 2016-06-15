@@ -1,4 +1,6 @@
 # AndroidProguardPlugin
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidProguardPlugin-green.svg?style=true)](https://android-arsenal.com/details/1/3721)
+
 OneKey Android Studio generate proguard codes 
 
 一键生成项目混淆代码插件，值得你安装~
