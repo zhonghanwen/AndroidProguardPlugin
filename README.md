@@ -29,7 +29,7 @@ OneKey Android Studio generate proguard codes
 # End
 我知道项目的代码混淆一般通常混淆一次就可以了，很多人认为这个插件的意义不太，但是我可以告诉你我也是这么想的，可是我也无办法阻止我的行动~哈哈~~
 
-# update
+# Update
 
 ![](http://7xrnko.com1.z0.glb.clouddn.com/androidproguard_three_part.png)
 
