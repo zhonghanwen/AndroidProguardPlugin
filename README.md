@@ -33,6 +33,8 @@ OneKey Android Studio generate proguard codes
 
 ![](http://7xrnko.com1.z0.glb.clouddn.com/androidproguard_three_part.png)
 
+update 20171029
+* 新增fresco/更新Gilde/新增科大讯飞.
 
 # License
 
