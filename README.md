@@ -15,7 +15,7 @@ OneKey Android Studio generate proguard codes
 
 
 # How to use
-1. 下载AndroidProGuard插件并安装重启。[download](https://raw.githubusercontent.com/zhonghanwen/AndroidProguardPlugin/master/AndroidProguard.zip)
+1. 下载AndroidProGuard插件并安装重启。[download](https://raw.githubusercontent.com/zhonghanwen/AndroidProguardPlugin/master/AndroidProguardPlugin.zip)
 2.  在菜单栏的Edit下拉菜单中选择AndroidProGuard选项。
 3. 如果弹出成功对话框，就可以按Ctrl+V粘贴到项目的proguard-rules.pro文件。
 4. 根据proguard-rules.pro报错的提示进行修改成。
