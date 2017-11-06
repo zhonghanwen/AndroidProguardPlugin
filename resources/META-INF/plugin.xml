@@ -1,17 +1,16 @@
 <idea-plugin version="2">
   <id>com.zhw.tgnet.android.AndroidProGuard</id>
   <name>AndroidProGuard</name>
-  <version>1.2</version>
+  <version>1.3</version>
   <vendor email="zhonghanwen1001@qq.com" url="http://zhonghanwen.xyz">TgNet</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      OneKey Android Studio generate Android proguard codes.
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+      1、fix the plugin install error. <br>
+      2、add some proguard codes. <br>
     ]]>
   </change-notes>
 
