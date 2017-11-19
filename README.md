@@ -15,8 +15,8 @@ OneKey Android Studio generate proguard codes
 
 
 # How to use
-1. 下载AndroidProGuard插件并安装重启。[download](https://raw.githubusercontent.com/zhonghanwen/AndroidProguardPlugin/master/AndroidProguardPlugin.zip)
-2.  在菜单栏的Edit下拉菜单中选择AndroidProGuard选项。
+1. 目前可以在Android Studio -> Plugins -> Browse Repsitiories进行搜索"AndroidProGurad Pro"点击下载安装并重启。或者直接点击下载AndroidProGuard插件并安装重启。[download](https://raw.githubusercontent.com/zhonghanwen/AndroidProguardPlugin/master/AndroidProguardPlugin.zip) 
+2. 在菜单栏的Edit下拉菜单中选择AndroidProGuard选项。
 3. 如果弹出成功对话框，就可以按Ctrl+V粘贴到项目的proguard-rules.pro文件。
 4. 根据proguard-rules.pro报错的提示进行修改成。
 5. 将项目app下gradle文件将minifyEnabled修改成true就可以测试混淆效果。 （你可以使用AndroidKiller反编译看一下效果，AndroidKiller的使用可以参考我写的这篇文章[here](http://www.cnblogs.com/common1140/p/5198460.html)）
